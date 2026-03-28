@@ -5,12 +5,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Omkar 👋
+
+🚀 14-year-old building in tech  
+🧠 Exploring AI, automation & startups  
+⚡ Learning by creating real-world projects  
+
+## 🔨 Projects
+- AI Study Assistant (coming soon)
+- Automation tools
+- Web apps  
+- Content Creation
+
+## 📫 Connect with me
+- Instagram: @phenomenal.pablo
+- Email: omkar.dutta050@gmail.com
