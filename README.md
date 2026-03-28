@@ -1,5 +1,4 @@
-## Hi there 👋
-Hi, I'm Omkar 👋
+##Hi, I'm Omkar 👋
 
 🚀 14-year-old building in tech  
 🧠 Exploring AI, automation & startups  
@@ -15,7 +14,7 @@ Hi, I'm Omkar 👋
 - Instagram: @phenomenal.pablo
 - Email: omkar.dutta050@gmail.com
 
-- ## 🐍 Contribution Snake
+
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
