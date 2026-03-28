@@ -1,4 +1,19 @@
 ## Hi there 👋
+Hi, I'm Omkar 👋
+
+🚀 14-year-old building in tech  
+🧠 Exploring AI, automation & startups  
+⚡ Learning by creating real-world projects  
+
+## 🔨 Projects
+- AI Study Assistant (coming soon)
+- Automation tools
+- Web apps  
+- Content Creation
+
+## 📫 Connect with me
+- Instagram: @phenomenal.pablo
+- Email: omkar.dutta050@gmail.com
 
 <!--
 **omkaX-a/omkaX-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
