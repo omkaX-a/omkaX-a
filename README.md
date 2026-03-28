@@ -15,6 +15,10 @@ Hi, I'm Omkar 👋
 - Instagram: @phenomenal.pablo
 - Email: omkar.dutta050@gmail.com
 
+- ## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 <!--
 **omkaX-a/omkaX-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
